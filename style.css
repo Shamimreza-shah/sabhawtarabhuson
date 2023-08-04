@@ -1,0 +1,19 @@
+div{
+    width: 300px;
+    height: 400px;
+    background-image: url('Sabhawta.jpg');
+    background-repeat: no-repeat;
+    background-size: 300px auto;
+    background-position: left;
+    background-attachment: fixed;
+}
+h2{
+    color: red;
+}
+p1{
+    color: skyblue;
+}
+p{
+    border: 10px solid red;
+    color: green;
+}
